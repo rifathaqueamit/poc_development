@@ -1,0 +1,14 @@
+Action
+1. Catching fish
+2. arm wrestling
+3. climbing tree
+4. flying kite
+5. football
+6. cutting
+7. tennis
+
+Object
+1. person
+2. racket
+3. dining table
+4. kite
